@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+
+  font-family: "Circular";
+}
+
+.text {
+  font-weight: 900;
+}
+.w-5 {
+  width: 4%;
+}
+
+.text-gray {
+  color: rgb(173, 173, 173);
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.prima-colonna {
+  font-size: small;
+}
+
+.colonna-nera {
+  font-size: x-small;
+}
+
+.gradient {
+  background: linear-gradient(160deg, rgba(59, 28, 169, 1) 18%, rgba(126, 148, 154, 1) 97%);
+}
